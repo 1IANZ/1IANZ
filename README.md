@@ -4,10 +4,7 @@
 
 ## 💡 About Me
 - 🧑‍🎓 I'm a blockchain engineering student  
-- 🦀 I love the speed and safety of **Rust**  
-- 📱 I enjoy building beautiful apps with **Flutter**  
-- 🌐 Learning **React** for front-end and **Solana** for smart contracts  
-- 💭 Curious, self-driven, always exploring new tech
+- 🚀 Passionate about Rust, Flutter, React, Node.js, Next.js, and Tauri  
 
 
 ## 🧰 Tech Stack
