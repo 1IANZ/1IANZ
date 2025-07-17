@@ -9,11 +9,13 @@
 
 ## 🧰 Tech Stack
 
-| Category        | Tools / Languages                  |
-|----------------|-------------------------------------|
-| 🖥 Desktop       | Tauri· Flutter                    |
-| 🌐 Frontend     | Next.js · React                   |
-| 🧠 Backend      | Node.js · Rust                    |
+| Category   | Tools / Languages           |
+|------------|-----------------------------|
+| 🖥 Desktop  | Tauri · Flutter             |
+| 🌐 Frontend | Next.js · React             |
+| 🧠 Backend  | Node.js · Rust              |
+| 🌐 Web3     | Solana                      |
+
 
 ## 🔗 Connect With Me
 
