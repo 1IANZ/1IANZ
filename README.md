@@ -14,7 +14,7 @@
 | 🖥 Desktop  | Tauri · Flutter             |
 | 🌐 Frontend | Next.js · React             |
 | 🧠 Backend  | Node.js · Rust              |
-| 🌐 Web3     | Solana                      |
+| 🌐 Web3     | Solana · Eth               |
 
 
 ## 🔗 Connect With Me
