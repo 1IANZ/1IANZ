@@ -30,9 +30,8 @@
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 
 ### 🌍 Cross-Platform
-
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%234E5B62.svg?style=flat&logo=tauri&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 
 ### ⛓️ Blockchain
 
