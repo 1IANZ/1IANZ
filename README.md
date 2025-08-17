@@ -1,26 +1,40 @@
-# 👋 Hi, I'm 1IANZ (ALEXNIAN)
-🎯 A Web3 beginner passionate about building cool things  
-🛠️ Currently learning **Rust**, **Flutter**, **React**, and **Solana**
+<div id="title" align=center>
 
-## 💡 About Me
-- 🧑‍🎓 I'm a blockchain engineering student  
-- 🚀 Passionate about Rust, Flutter, React, Node.js, Next.js, and Tauri  
+![1IANZ][github-sub-title:img]
+[![1IANZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=1IANZ&show_icons=true&theme=tokyonight)](https://github.com/1IANZ)
 
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ALEXNIAN
 
-## 🧰 Tech Stack
+</div>
 
-| Category   | Tools / Languages           |
-|------------|-----------------------------|
-| 🖥 Desktop  | Tauri · Flutter             |
-| 🌐 Frontend | Next.js · React             |
-| 🧠 Backend  | Node.js · Rust              |
-| 🌐 Web3     | Solana · ETH               |
+<hr />
 
+## 💻 Tech Stack:
 
-## 🔗 Connect With Me
+### 🖊️ Languages
 
-- GitHub: [@1IANZ](https://github.com/1IANZ)
-- Email: `1587005702@qq.com`
+![Rust](https://img.shields.io/badge/rust-%23DEA584.svg?style=flat&logo=rust&logoColor=%23000000)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=%23000000)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
+### 🌐 Frontend
 
-> “The best way to learn is to build. And the best way to build is to love what you do.”
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=%23000000)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
+
+### ⚙️ Backend
+
+![Rust Axum](https://img.shields.io/badge/axum-%23DEA584.svg?style=flat&logo=rust&logoColor=%23000000)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+
+### 🌍 Cross-Platform
+
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![Tauri](https://img.shields.io/badge/tauri-%234E5B62.svg?style=flat&logo=tauri&logoColor=white)
+
+### ⛓️ Blockchain
+
+![Solana](https://img.shields.io/badge/solana-%2366F9A1.svg?style=flat&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=%236172E5)
