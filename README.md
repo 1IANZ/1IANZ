@@ -1,9 +1,8 @@
 <div id="title" align=center>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=paditianxiu)](https://git.io/streak-stats)  
-![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=paditianxiu&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paditianxiu&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1IANZ)](https://git.io/streak-stats)  
+![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=1IANZ&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1IANZ&layout=compact)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ALEXNIAN
 
