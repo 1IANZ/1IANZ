@@ -1,7 +1,9 @@
 <div id="title" align=center>
 
-![1IANZ][github-sub-title:img]
-[![1IANZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=1IANZ&show_icons=true&theme=tokyonight)](https://github.com/1IANZ)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=paditianxiu)](https://git.io/streak-stats)  
+![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=paditianxiu&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paditianxiu&layout=compact)
+
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ALEXNIAN
 
