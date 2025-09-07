@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-![github-sub-title](img)  
+![ALEXNIAN][github-sub-title:img]
 ![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=1IANZ&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)  
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ALEXNIAN
