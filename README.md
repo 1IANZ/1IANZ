@@ -1,7 +1,7 @@
 <div id="title" align=center>
 
+![github-sub-title](img)  
 ![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=1IANZ&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1IANZ&layout=compact)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ALEXNIAN
 
@@ -37,3 +37,6 @@
 
 ![Solana](https://img.shields.io/badge/solana-%2366F9A1.svg?style=flat&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=%236172E5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1IANZ&layout=compact)
+
