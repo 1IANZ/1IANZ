@@ -22,6 +22,7 @@
 ### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=%23000000)
+![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 
 ### ⚙️ Backend
