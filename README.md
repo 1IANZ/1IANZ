@@ -1,13 +1,12 @@
+<div id="title" align=center>
 
-![ALEXNIAN][github-sub-title:img]
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ALEXNIAN
+[![ALEXNIAN](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ALEXNIAN)](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ALEXNIAN)
 
 [![1IANZ's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=1IANZ&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![1IANZ's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=1IANZ&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1IANZ&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1IANZ&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
 
 </div>
 
@@ -35,6 +34,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 
 ### 🌍 Cross-Platform
+
 ![Tauri](https://img.shields.io/badge/tauri-%234E5B62.svg?style=flat&logo=tauri&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 
@@ -44,4 +44,3 @@
 ![Ethereum](https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=%236172E5)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1IANZ&layout=compact)
-
