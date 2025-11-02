@@ -1,9 +1,14 @@
 <div id="title" align=center>
 
 ![ALEXNIAN][github-sub-title:img]
-![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=1IANZ&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)  
-
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ALEXNIAN
+
+[![1IANZ's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=1IANZ&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![1IANZ's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=1IANZ&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1IANZ&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1IANZ&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 
 </div>
 
