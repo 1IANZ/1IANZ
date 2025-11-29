@@ -41,6 +41,5 @@
 ![Solana](https://img.shields.io/badge/solana-%2366F9A1.svg?style=flat&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=flat&logo=ethereum&logoColor=%236172E5)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1IANZ&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1IANZ&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
