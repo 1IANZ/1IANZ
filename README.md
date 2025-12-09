@@ -4,6 +4,12 @@
 
 </div>
 
+## 👋 About Me
+
+- 🔭 I’m a current student
+- 📫 How to reach me: lnian6881@gmail.com
+<hr />
+
 ## 💻 Tech Stack:
 
 ### 🖊️ Languages
